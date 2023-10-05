@@ -1,4 +1,4 @@
 # GIT-
 git
 <br>
-Author - Gnaneswar yalla
+Author - Gnaneswar Yalla
